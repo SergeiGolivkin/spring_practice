@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="544a0bf1-efdb-4d0f-9167-236c85f40aec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate_practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring_practice/META-INF/spring_practice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring_practice/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_many_to_many/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_many_to_many/entity/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_many_to_many/entity/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_many/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_many/entity/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_many/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_one/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_one/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_one/entity/Detail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_one_to_one/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_test/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_test/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_test/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_test/Test4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_test/Test5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate_test/entity/Employee.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pk555EYBWsff7QTwIl4klhbpBY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hibernate_practice" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hibernate_one_to_many.entity" />
+      <recent name="hibernate_one_to_many" />
+      <recent name="hibernate_test2.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_many_to_many.Test" />
+      <module name="hibernate_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_many_to_many.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_one_to_many.Test1" />
+      <module name="hibernate_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_one_to_many.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_one_to_one.Test1" />
+      <module name="spring_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_one_to_one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_one_to_one.Test2" />
+      <module name="hibernate_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_one_to_one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test4" />
+      <module name="hibernate_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test5" />
+      <module name="hibernate_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hibernate_practice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hibernate_practice" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="544a0bf1-efdb-4d0f-9167-236c85f40aec" name="Default Changelist" comment="" />
+      <created>1615714060303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615714060303</updated>
+      <workItem from="1615714063748" duration="14444000" />
+      <workItem from="1615864700131" duration="16386000" />
+      <workItem from="1616085939608" duration="12356000" />
+    </task>
+    <task id="LOCAL-00001" summary="hibernate practice">
+      <created>1615727559959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615727559959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1615750688622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615750688622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete">
+      <created>1615751230831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615751230831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="OneToOne">
+      <created>1615959567502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615959567502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="OneToOne">
+      <created>1615962239595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615962239595</updated>
+    </task>
+    <task id="LOCAL-00006" summary="OneToOne">
+      <created>1615969862667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615969862668</updated>
+    </task>
+    <task id="LOCAL-00007" summary="OneToMany">
+      <created>1615990244304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615990244304</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ManyToMany">
+      <created>1616240685015</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616240685015</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ManyToMany">
+      <created>1616242571759</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616242571759</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="76" />
+                  <entry key="3" value="76" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hibernate practice" />
+    <MESSAGE value="update" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="OneToOne" />
+    <MESSAGE value="OneToMany" />
+    <MESSAGE value="ManyToMany" />
+    <option name="LAST_COMMIT_MESSAGE" value="ManyToMany" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1616232574460">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="766" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1616232574460" />
+    <state x="367" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1615714204537">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="367" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.720@0.0.1280.720" timestamp="1615714204537" />
+    <state x="203" y="131" key="FileChooserDialogImpl" timestamp="1616242918314">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="203" y="131" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1616242918314" />
+    <state width="1238" height="253" key="GridCell.Tab.0.bottom" timestamp="1616242921886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1616242921886" />
+    <state width="1238" height="253" key="GridCell.Tab.0.center" timestamp="1616242921886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1616242921886" />
+    <state width="1238" height="253" key="GridCell.Tab.0.left" timestamp="1616242921885">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1616242921885" />
+    <state width="1238" height="253" key="GridCell.Tab.0.right" timestamp="1616242921886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1616242921886" />
+    <state x="-32" y="0" key="SettingsEditor" timestamp="1615714955823">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-32" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1615714955823" />
+  </component>
+</project>
