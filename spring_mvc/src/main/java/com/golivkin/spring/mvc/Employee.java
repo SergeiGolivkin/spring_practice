@@ -10,7 +10,8 @@ public class Employee {
     private int salary;
     private String department;
     private Map<String, String> departments;
-
+    private String carBrand;
+    private Map<String, String> cars;
 
     public Employee() {
 
@@ -18,6 +19,11 @@ public class Employee {
         departments.put("IT", "Information Technology");
         departments.put("HR", "Human Resources");
         departments.put("Sales", "Sales");
+
+        cars = new HashMap<>();
+        cars.put("BMW", "BMW");
+        cars.put("LADA","LADA");
+        cars.put("OPEL","OPEL");
 
     }
 
@@ -59,6 +65,22 @@ public class Employee {
 
     public void setDepartments(Map<String, String> departments) {
         this.departments = departments;
+    }
+
+    public String getCarBrand() {
+        return carBrand;
+    }
+
+    public void setCarBrand(String carBrand) {
+        this.carBrand = carBrand;
+    }
+
+    public Map<String, String> getCars() {
+        return cars;
+    }
+
+    public void setCars(Map<String, String> cars) {
+        this.cars = cars;
     }
 
     @Override
