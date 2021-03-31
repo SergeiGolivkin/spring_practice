@@ -12,6 +12,7 @@
 <form:form action = "showDetails" modelAttribute = "employee">
 
   Name <form:input path="name"/>
+  <form:errors path="name"/>
   <br><br>
   Surname <form:input path="surname"/>
   <br><br>
@@ -25,9 +26,7 @@
   <form:radiobuttons path="carBrand" items="${employee.cars}"/>
   <br><br>
   Foreign Language(s)
-  EN <form:checkbox path="languages" value="English"/>
-  DE <form:checkbox path="languages" value="Deutch"/>
-  FR <form:checkbox path="languages" value="French"/>
+  <form:checkboxes path="languages" items="${employee.languageMap}"/>
   <br><br>
   <input type="submit" value="ok">
 
