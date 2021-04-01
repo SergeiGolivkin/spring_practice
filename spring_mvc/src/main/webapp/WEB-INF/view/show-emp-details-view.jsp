@@ -29,6 +29,7 @@ Language(s):
 
 </ul>
 
+Phone number: ${employee.phoneNumber}
 
 </body>
 
