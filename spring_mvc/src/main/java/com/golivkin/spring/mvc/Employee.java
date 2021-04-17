@@ -1,5 +1,7 @@
 package com.golivkin.spring.mvc;
 
+import com.golivkin.spring.mvc.validation.CheckEmail;
+
 import javax.validation.constraints.*;
 import java.util.HashMap;
 import java.util.Map;
@@ -21,6 +23,9 @@ public class Employee {
     private Map<String, String> cars;
     private String[] languages;
     private Map<String, String> languageMap;
+
+    @CheckEmail(value = "mail.com", message = "email must ends mail.com")
+    private String email;
 
     @Pattern(regexp = "\\d{3}-\\d{2}-\\d{2}", message = "please use pattern XXX-XX-XX")
     private String phoneNumber;
@@ -122,6 +127,14 @@ public class Employee {
 
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     @Override

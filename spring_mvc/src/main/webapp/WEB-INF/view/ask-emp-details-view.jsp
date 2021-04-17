@@ -30,10 +30,16 @@
   Foreign Language(s)
   <form:checkboxes path="languages" items="${employee.languageMap}"/>
   <br><br>
-  Phone: <form:input path="phoneNumber"/>
-  <form:errors path="surname"/>
-  <input type="submit" value="ok">
+  Phone number: <form:input path="phoneNumber"/>
+  <form:errors path="phoneNumber"/>
   <br><br>
+  Email: <form:input path="email"/>
+  <form:errors path="email"/>
+  
+  
+  
+  <br><br>
+  <input type="submit" value="ok">
 
 </form:form>
 
